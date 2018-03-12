@@ -1,5 +1,7 @@
 Additional scripts related to Benchmarking Universal Single-Copy Orthologs (BUSCO) 
 
+For the tool itself: https://gitlab.com/ezlab/busco
+
 **How to cite BUSCO**
 
 *BUSCO applications from quality assessments to gene prediction and phylogenomics.*
