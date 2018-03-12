@@ -1,1 +1,1 @@
-.
+Additional scripts related to Benchmarking Universal Single-Copy Orthologs (BUSCO) 
