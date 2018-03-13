@@ -1,6 +1,7 @@
 This folder contains scripts to extract BUSCO genes from several BUSCO run folders (! having used the same BUSCO dataset) and produce a species phylogeny.
+You will also find here a Dockerfile to build a container that contains BUSCO and other tools needed for this analysis.
 
-- `Dockerfile`: to build a Docker container able to run the script. (see https://www.docker.com/what-docker) (BUSCO is included if you need it. But not required to run the script. Use python3 within the docker to run BUSCO)
+- `Dockerfile`: build a Docker container able to run the script. (see https://www.docker.com/what-docker) (BUSCO is included if you need it. But not required to run the phylogenomics script. Use python3, not python, within the docker to run BUSCO)
 - `run.sh`: the main script to proceed to the analysis. The final output is final.nwk
 - `extract_buscos_phylo.py`: the main script to identify and extract BUSCO sequences
 - `fetch_best_sequence.py`: an additional script required by the previous one
