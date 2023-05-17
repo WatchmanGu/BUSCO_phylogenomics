@@ -1,8 +1,10 @@
-Additional scripts related to Benchmarking Universal Single-Copy Orthologs (BUSCO) 
+These scipts are the additional scripts related to Benchmarking Universal Single-Copy Orthologs (BUSCO) 
 
-For the tool itself: https://gitlab.com/ezlab/busco
+For the original repository itself: https://gitlab.com/ezlab/busco_usecases
 
-**How to cite BUSCO**
+As the BUSCO has been updated to Version 5, the original scripts dont work with the new ouput files of the BUSCO run. So I modify the scripts for working with BUSCO v5.
+
+**The citation for the BUSCO and the original scripts**
 
 *BUSCO applications from quality assessments to gene prediction and phylogenomics.*
 Robert M. Waterhouse, Mathieu Seppey, Felipe A. Simão, Mose Manni, Panagiotis Ioannidis, Guennadi Klioutchnikov, Evgenia V. Kriventseva, and Evgeny M. Zdobnov
@@ -15,4 +17,7 @@ Felipe A. Simão, Robert M. Waterhouse, Panagiotis Ioannidis, Evgenia V. Krivent
 doi: 10.1093/bioinformatics/btv351
 
 Copyright (c) 2016-2018, Evgeny Zdobnov (ez@ezlab.org)
-Licensed under the MIT license. See LICENSE.md file.
+Licensed under the MIT license.
+
+**NOTE:**
+If you are not familiar with python and can not edit the code for your own work, you may choose other repository like https://github.com/jamiemcg/BUSCO_phylogenomics for construct species phylogenies using BUSCO proteins.
