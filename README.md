@@ -1,12 +1,12 @@
 # BUSCO_phylogenomics (custom)
 
 **Attantion:**
-As BUSCO has pubulished the new protocol for building phylogenomic tress, no need for using the scripts in this repository. Please refer to the new protocol: <https://gitlab.com/ezlab/busco_protocol/>
-Detials can be found in the paper: <https://doi.org/10.1002/cpz1.323>, see Support Protocol 3: Building phylogenomic trees
+As BUSCO has pubulished the new protocol for building phylogenomic tress, no need for using the scripts in this repository. 
+Please refer to the new protocol: <https://gitlab.com/ezlab/busco_protocol/>.
+Detials can be found in the paper: <https://doi.org/10.1002/cpz1.323>, see Support Protocol 3: Building phylogenomic trees.
 
-(Only need for someone has used the old protocool for phylogenomic analysis and just find the old scripts dont work with the new BUSCO output files, still recommend to use the new protocol for phylogenomic analysis from the beginning🙃)
-
-These scipts are the additional scripts related to Benchmarking Universal Single-Copy Orthologs (BUSCO)
+These scipts are the additional scripts related to Benchmarking Universal Single-Copy Orthologs (BUSCO).
+Only need for someone has used the old protocool for phylogenomic analysis and just find the old scripts dont work with the new BUSCO output files (still recommend to use the new protocol for phylogenomic analysis from the beginning🙃).
 
 For the original repository itself: <https://gitlab.com/ezlab/busco_usecases>
 
